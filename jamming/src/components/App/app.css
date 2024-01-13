@@ -1,0 +1,39 @@
+body{
+    height:100%;
+    font-size:18px;
+}
+
+h1{
+    padding:16px;
+    background-color:purple;
+    text-align:center;
+    font-family:'Times New Roman', Times, serif;
+    font-size:16px;
+    color:white;
+}
+
+h1 .highlight{
+    color:orange;
+
+}
+
+h2{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size:16px;
+}
+
+.App{
+    height:100%;
+    padding:10px 16px 10px 16px;
+    background-image:url('./App/music background.jpg');
+    background-size:cover;
+    background-position:center;
+    background-repeat:no-repeat;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:white;
+}
+
+.playlist-App{
+    display:flex;
+    width:100%
+}
